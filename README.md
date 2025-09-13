@@ -11,13 +11,19 @@ I am a junior Cybersecurity with an interest in technology and a dedication to c
 My journey in technology has led me to a passion for cybersecurity. This has made me eager to entry into the field and grow into a professional, specifically aiming into a Security Operations Center (SOC) or Incident Response role.
 
 ## Skills
-
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/splunk/splunk-original-wordmark.svg" width="50" />
+          
+          
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
-
-
+<img src="(https://img.shields.io/badge/metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)" />
+<img src="(https://img.shields.io/badge/powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+<img src="{BadgeURLHere}" />
+</a>
 
 
 
