@@ -1,14 +1,14 @@
 # Hello, I am Matthew
 <a href="https://www.linkedin.com/in/matthew-conner-4ab448282/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Hello, I am Matthew Conner, A Junior Cybersecurity Management student at Middle Tennessee State University.
+Hello, I am Matthew Conner, a Cybersecurity Management student at Middle Tennessee State University.
 
-I am a junior Cybersecurity with an interest in technology and a dedication to critical thinking and complex problem solving.
+I am a junior cybersecurity student with an interest in technology, dedicated to learning how to solve cyber-related threats and complex issues.
 
 ## Objective
  
 
-My journey in technology has led me to a passion for cybersecurity. This has made me eager to entry into the field and grow into a professional, specifically aiming into a Security Operations Center (SOC) or Incident Response role.
+My journey in technology has led me to a passion for cybersecurity. This has made me eager to enter the field and grow into a professional, specifically aiming for a Security Operations Center (SOC) or Incident Response role.
 
 
 
@@ -37,4 +37,4 @@ My journey in technology has led me to a passion for cybersecurity. This has mad
 
 ## Projects
 - <a href="https://github.com/mconner50/Homelab-Attack-Detection">Homelab: Attack Detection Lab</a>
-- SOC Automation Project
+- 
