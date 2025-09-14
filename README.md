@@ -10,19 +10,15 @@ I am a junior Cybersecurity with an interest in technology and a dedication to c
 
 My journey in technology has led me to a passion for cybersecurity. This has made me eager to entry into the field and grow into a professional, specifically aiming into a Security Operations Center (SOC) or Incident Response role.
 
-## Skills
- <table><tr><td valign="top" width="50%">
 
-###   
-<a href="https://github.com/tayyabadev">
-<div>  
-  SIEM Implementation and Log Analysis
-</div>
-</a>
 
-          
-          
+## Skills   
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://github.com/mconner50/Homelab-Attack-Detection">Homelab: Attack Detection Lab</a>|
+| Traffic Monitoring and Attack Detection       | <a href="https://github.com/mconner50/Homelab-Attack-Detection">Homelab: Attack Detection Lab</a>|
 
+         
 ## Tools
 <div>
     <img src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
@@ -40,4 +36,5 @@ My journey in technology has led me to a passion for cybersecurity. This has mad
 
 
 ## Projects
- 
+- <a href="https://github.com/mconner50/Homelab-Attack-Detection">Homelab: Attack Detection Lab</a>
+- SOC Automation Project
