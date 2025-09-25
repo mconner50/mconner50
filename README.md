@@ -17,6 +17,9 @@ My journey in technology has led me to a passion for cybersecurity. This has mad
 |-----------------------------------------------|----------------------------|
 | SIEM Implementation and Log Analysis          | <a href="https://github.com/mconner50/Homelab-Attack-Detection">Homelab: Attack Detection Lab</a>|
 | Traffic Monitoring and Attack Detection       | <a href="https://github.com/mconner50/Homelab-Attack-Detection">Homelab: Attack Detection Lab</a>|
+|Security Automation Using Soar|<a href="https://github.com/mconner50/Cloud-SOC-Automation">Cloud Based SOC Automation</a>|
+| Case Managment Systems Using TheHive        | <a href="https://github.com/mconner50/Cloud-SOC-Automation">Cloud Based SOC Automation</a>|
+| Incident response and Threat Mitigation Planning   | <a href="https://github.com/mconner50/Cloud-SOC-Automation">Cloud Based SOC Automation</a>|
 
          
 ## Tools
@@ -37,4 +40,4 @@ My journey in technology has led me to a passion for cybersecurity. This has mad
 
 ## Projects
 - <a href="https://github.com/mconner50/Homelab-Attack-Detection">Homelab: Attack Detection Lab</a>
-- 
+- <a href="https://github.com/mconner50/Cloud-SOC-Automation">Cloud Based SOC Automation</a>
